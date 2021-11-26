@@ -1,0 +1,61 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="functionOptimization.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/functionOptimization_main_jar</output-path>
+    <root id="archive" name="functionOptimization.main.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="functionOptimization.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlgraphics/batik-transcoder/1.14/ad3a750a02e53cf9b66d67371f0ddf889f06c070/batik-transcoder-1.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.common/common-lang/3.6.4/3885f3c147c4eb20217c0e443fe1751f080b30dd/common-lang-3.6.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.lets-plot/lets-plot-image-export/2.2.0/8de323e2a59550c2ccacbcb270e8ac47c935ad75/lets-plot-image-export-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.common/common-io/3.6.4/274b651ea49a62216b646ef5c0f204dc38e96eff/common-io-3.6.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.lets-plot/vis-svg-portable-jvm/2.2.0/47a514502a6fe3716072b04e4e2df47db48dc339/vis-svg-portable-jvm-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlgraphics/xmlgraphics-commons/2.6/8779b8d8f426f24fdb4a512f8bc4248cb3775bd2/xmlgraphics-commons-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.lets-plot/lets-plot-batik/2.2.0/60809a5fe5fa37a00d1583aa3983e8e64ad01b71/lets-plot-batik-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlgraphics/batik-svg-dom/1.14/916c216454503413ed4fc76dbfac55b30bbcae2b/batik-svg-dom-1.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.lets-plot/plot-config-portable-jvm/2.2.0/6bec61e7e6d529213aa6b1dd8b5cdb37b5363d13/plot-config-portable-jvm-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlgraphics/batik-codec/1.14/f63ed1f18412cead069fa97b677fdbda43b6a1af/batik-codec-1.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.6.0/da6bdc87391322974a43ccc00a25536ae74dad51/kotlin-stdlib-jdk7-1.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/xml-apis/xml-apis-ext/1.3.04/41a8b86b358e87f3f13cf46069721719105aff66/xml-apis-ext-1.3.04.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.lets-plot/plot-base-portable-jvm/2.2.0/b080f463fe02ab123f621f1c5aa91b819acb97db/plot-base-portable-jvm-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.lets-plot/plot-common-portable-jvm/2.2.0/c1ccf346b31408611a4c4fd14858655c40ac1422/plot-common-portable-jvm-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlgraphics/batik-anim/1.14/135d69b4deb4569237e9ee9c508a13ba407a77bb/batik-anim-1.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlgraphics/batik-script/1.14/f39a410e0cb936d0538c4a7411e1ae45c0d0a10a/batik-script-1.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlgraphics/batik-awt-util/1.14/8f30e4cfc76626e7786ce0991df351cd91cddec6/batik-awt-util-1.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/xalan/serializer/2.7.2/24247f3bb052ee068971393bdb83e04512bb1c3c/serializer-2.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlgraphics/batik-ext/1.14/79fe8cc37676e7af4c85f2f7fd51e17f46bc75ed/batik-ext-1.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlgraphics/batik-constants/1.14/371acf696982f1c8e2689f5899b4e8453ccd74ff/batik-constants-1.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/xalan/xalan/2.7.2/d55d3f02a56ec4c25695fe67e1334ff8c2ecea23/xalan-2.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.lets-plot/lets-plot-kotlin-jvm/3.1.0/96cbf69c999cafc7ab308403beca350878d6ded1/plot-api-jvm-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/1.3.1/b90b6ac57cf27a2858eaa490d02ba7945d18ca7b/commons-io-1.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.lets-plot/lets-plot-common/2.2.0/4b354bb8c2b7122966ba44b1602efd9c988c9bdf/lets-plot-common-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlgraphics/batik-bridge/1.14/5833c8b8dc292081e0db6bbaee935e7e1391daaf/batik-bridge-1.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.0/a40b8b22529b733892edf4b73468ce598bb17f04/kotlin-stdlib-1.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.5.31/1523fcd842a47da0820cea772b19c51056fec8a9/kotlin-reflect-1.5.31.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlgraphics/batik-parser/1.14/4ac928fd781673c0b6a181fabaa89f0ee3b32f28/batik-parser-1.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.imageio/imageio-tiff/3.6.4/5394891736ce085513c70556cd21e95db7c04f5c/imageio-tiff-3.6.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.0.4/f029a2aefe2b3e1517573c580f948caac31b1056/commons-logging-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlgraphics/batik-gvt/1.14/93aacfbe75655c2900c9fb069ffa059370366c78/batik-gvt-1.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlgraphics/batik-shared-resources/1.14/42e9d6345952575e8b2f4ee26108b2811c334305/batik-shared-resources-1.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/xml-apis/xml-apis/1.4.01/3789d9fada2d3d458c4ba2de349d48780f381ee3/xml-apis-1.4.01.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.0/7857e365f925cfa060f941c1357cda1f8790502c/kotlin-stdlib-common-1.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.6.0/baf82c475e9372c25407f3d132439e4aa803b8b8/kotlin-stdlib-jdk8-1.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.microutils/kotlin-logging-jvm/2.0.5/a2b9216b3958c6d70a5f3842d851f224eba3818c/kotlin-logging-jvm-2.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-html-jvm/0.7.3/cfc1aab4fbd794458011cba04f2c25acda3b0aed/kotlinx-html-jvm-0.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.29/e56bf4473a4c6b71c7dd397a833dce86d1993d9d/slf4j-api-1.7.29.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.imageio/imageio-core/3.6.4/5e2dd24f4d6636efe04683133ffa400d78841a80/imageio-core-3.6.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlgraphics/batik-util/1.14/7ca55c864e5ddd690ba07f44e3ba8e68e9048a02/batik-util-1.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlgraphics/batik-xml/1.14/b78b3e2f87579f02dcc342a147017cce8fc0ffc6/batik-xml-1.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.common/common-image/3.6.4/e7b1fd0ac5b1535fa0f1c2eb58993c6371bde460/common-image-3.6.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlgraphics/batik-dom/1.14/66943d7b34766d0d270cce9c61fba4d769362af/batik-dom-1.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlgraphics/batik-css/1.14/3118d46f4879ec08c6c6471c7c0825652ed659ee/batik-css-1.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.lets-plot/plot-builder-portable-jvm/2.2.0/7fead70cace5a3b2ce065df87f5c285e66c6dc0d/plot-builder-portable-jvm-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlgraphics/batik-svggen/1.14/cc2f028925cc156a2df665802a403b8fa16d90a8/batik-svggen-1.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.imageio/imageio-metadata/3.6.4/df696463af5cd0dad83e6ae3d9616dfad13280a8/imageio-metadata-3.6.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.lets-plot/base-portable-jvm/2.2.0/a1a4c469a33c67bea9a5b3797acb6f9b22569c59/base-portable-jvm-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlgraphics/batik-i18n/1.14/a4e7b0cda9132904f21b25ab29a0b73e1867e7fd/batik-i18n-1.14.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
